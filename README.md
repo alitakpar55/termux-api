@@ -1,7 +1,5 @@
-# Termux API
 
-[![Build status](https://github.com/termux/termux-api/workflows/Build/badge.svg)](https://github.com/termux/termux-api/actions)
-[![Join the chat at https://gitter.im/termux/termux](https://badges.gitter.im/termux/termux.svg)](https://gitter.im/termux/termux)
+[![Join the chat at https:// fork alitakpar55/termux-api]
 
 This is an app exposing Android API to command line usage and scripts or programs.
 
@@ -11,8 +9,7 @@ allowed to call the API methods in this app).
 
 ## Installation
 
-Termux:API application can be obtained from [F-Droid](https://f-droid.org/en/packages/com.termux.api/).
-
+Termux:API application can be obtained from [F-Droid](https://f-droid.org/en/packages/com.termux.api/)
 Additionally we provide per-commit debug builds for those who want to try
 out the latest features or test their pull request. This build can be obtained
 from one of the workflow runs listed on [Github Actions](https://github.com/termux/termux-api/actions)
